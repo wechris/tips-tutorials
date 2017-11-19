@@ -1,13 +1,18 @@
 ---
 layout: page
 title: About
-description: Who I am
+description: About Me
 sitemap: false
 ---
 
-# About
--------
+I am a Software Engineer focusing on SAP technologies and JAVA development. 
 
-I'm YourFirstname YourLastname.
+SAP: ABAP, SAP Netweaver Gateway (oData), Fiori, SAPUI5, RFC+SOAP+HTTPS+HTTPS, SAP Communication Security (HTTPS, SNC, SSO)
 
-This is my personal blog and I like to write codes and short notes on here. If you find errors on my posts or have any suggestions, please drop some lines at comment section.
+JAVA: SAP JAVA Connector (JCo), Tomcat, Spring Framework, Apache Projects
+
+JavaScript: NodeJS, AngulasJS, SAPUI5
+
+DevOps: Vagrant, Docker, Packer, VirtualBox, VMWare
+
+IDE's: Eclipse, SAP WebIDE, BUILD, Visual Studio Code, GVIM [:-)]
