@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+  <div class="container">
+    {% include nav.html %}
+    {{ content }}
+  </div>
+  {% include footer.html %}
+  {% include javascript_core.html %}
+  {% if page.layout == 'post' %}
+  	<!-- Lightbox -->
+	<script src="{{ "/js/lightbox/lightbox.min.js " | prepend: site.baseurl }}"></script>
+  {% endif %}
+  {% if page.url == '/search/' %}
+  	<!-- Search -->
+  <script src="{{ "/js/lunr/lunr.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/js/search/search.js" | prepend: site.baseurl }}"></script>
+  {% endif %}
+</body>
+</html>

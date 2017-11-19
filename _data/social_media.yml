@@ -1,0 +1,6 @@
+- name: Gitgub
+  url: https://github.com/wechris
+  font_awesome: fa-github
+- name: Xing
+  url: https://www.xing.com/
+  font_awesome: fa-xing
