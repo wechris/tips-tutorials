@@ -43,7 +43,7 @@ Pre-requisites for this exercise
         here](http://scn.sap.com/community/developer-center/netweaver-gateway)
 
 -   SAP AS ABAP 751 SP02 Developer Edition [[download
-    here]{.underline}](https://blogs.sap.com/2017/09/04/sap-as-abap-751-sp02-developer-edition-to-download/)
+    here]](https://blogs.sap.com/2017/09/04/sap-as-abap-751-sp02-developer-edition-to-download/)
 
 -   Some basic understanding of ABAP and databases
 
