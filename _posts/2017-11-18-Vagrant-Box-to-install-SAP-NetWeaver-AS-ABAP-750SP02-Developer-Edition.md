@@ -111,4 +111,4 @@ vagrant up
 vagrant halt
 ````
 or with the virtualbox UI.
-![Oracle_VM_VirtualBox_Manager](./img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/Oracle_VM_VirtualBox_Manager.jpg)
+![Oracle_VM_VirtualBox_Manager](/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/Oracle_VM_VirtualBox_Manager.jpg)
