@@ -97,7 +97,7 @@ enter. In our example we are using SCARR. 
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image6.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image6.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -106,7 +106,7 @@ fields to not include (ignore) and ensure the correct key is selected.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image7.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image7.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -120,7 +120,7 @@ name, which in our example is Carriers.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image8.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image8.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -163,7 +163,7 @@ and errors. If you have done everything right this should be all green.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image11.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image11.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -179,7 +179,7 @@ Navigate to transaction /IWFND/MAINT\_SERVICE
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image12.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image12.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -193,7 +193,7 @@ Enter the name of your service and hit enter.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image13.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image13.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -201,7 +201,7 @@ Select your service from the list.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image14.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image14.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -210,7 +210,7 @@ Scroll down the list of services to find your one.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image15.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image15.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -226,7 +226,7 @@ If your call was successful you will see something like this:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image16.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image16.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -235,7 +235,7 @@ Now we can modify the URL so the suffix is
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image17.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image17.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -247,7 +247,7 @@ will see this error message:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image18.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image18.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -283,7 +283,7 @@ Click on "display object list"
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image21.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image21.jpeg" title="VirtualBox" width="500" %}   
 
 Find the CARRIERS\_GET)ENTITYSET method of the left hand side, right
 click on it, and chose "Redefine".
@@ -302,7 +302,7 @@ Then hit activate.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image23.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image23.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -312,7 +312,7 @@ Return to your browser and refresh the page.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image24.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image24.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -326,7 +326,7 @@ create a link between carriers and flights.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image25.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image25.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -358,7 +358,7 @@ Enter ABAP to select everything from the flights table.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image27.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image27.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -372,7 +372,7 @@ the flights
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image28.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image28.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -386,7 +386,7 @@ First we create a new Association:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image29.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image29.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -394,7 +394,7 @@ Then we create the navigation:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image30.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image30.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -431,7 +431,7 @@ et\_entityset.
 
   endif.
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image31.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image31.jpeg" title="VirtualBox" width="500" %}   
 
 IT\_KEY\_TAB is importing parameter of the method which will hold all
 keys which have been passed in. In our example it will contain a carrier
@@ -446,7 +446,7 @@ will only show flights where the carrier ID is "AA".
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image32.jpeg)
+{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image32.jpeg" title="VirtualBox" width="500" %}   
 
  
 
