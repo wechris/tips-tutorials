@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Synthax
 description: Markdown is a lightweight and easy-to-use syntax for styling your writing.
-date: 2017-11-18 13:44:00+0100
+date: 2017-11-19 13:44:00+0100
 date_modified: 2017-11-19 13:44:00+0100
 categories: [markdown]
 tags:
@@ -10,7 +10,7 @@ tags:
   - cheatsheet
 author: wechris
 image:
-  path: /img/2017_11_18_markdown-cheatsheet/markdown-cheatsheet.png
+  path: /img/2017-11-18-markdown-cheatsheet/markdown-cheatsheet.png
   width: 629
   height: 600
 ---
