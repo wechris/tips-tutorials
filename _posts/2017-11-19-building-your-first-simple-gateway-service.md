@@ -13,7 +13,7 @@ tags:
   - odata
 author: wechris
 image:
-  path: /img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image19.png
+  path: /img/2017-11-19-building-your-first-simple-gateway-service/image19.png
   width: 629
   height: 600
 ---
@@ -27,7 +27,7 @@ non-SAP systems too.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image1.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image1.png" title="VirtualBox" width="500" %}
  
 
 Now you all have a basic understanding of what Gateway is, you're ready
@@ -61,7 +61,7 @@ Login to ERP and navigate to transaction SEGW
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image2.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image2.png" title="VirtualBox" width="500" %}
 
  
 
@@ -69,7 +69,7 @@ Click on "Create Project"
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image3.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image3.png" title="VirtualBox" width="500" %}
 
  
 
@@ -80,7 +80,7 @@ In my example I will be creating the service as a local object.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image4.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image4.png" title="VirtualBox" width="500" %}
 
  
 
@@ -90,14 +90,14 @@ Right click on Data Model, and select Import \> DDIC Structure. 
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image5.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image5.png" title="VirtualBox" width="500" %}
 
 Enter the name of the ABAP Dictionary Structure you want to use, and hit
 enter. In our example we are using SCARR. 
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image6.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image6.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -106,7 +106,7 @@ fields to not include (ignore) and ensure the correct key is selected.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image7.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image7.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -120,7 +120,7 @@ name, which in our example is Carriers.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image8.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image8.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -140,7 +140,7 @@ generate wheel.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image9.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image9.png" title="VirtualBox" width="500" %}
 
  
 
@@ -148,7 +148,7 @@ Enter names which you want the underlying classes to have.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image10.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image10.png" title="VirtualBox" width="500" %}
 
  
 
@@ -163,7 +163,7 @@ and errors. If you have done everything right this should be all green.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image11.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image11.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -179,7 +179,7 @@ Navigate to transaction /IWFND/MAINT\_SERVICE
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image12.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image12.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -193,7 +193,7 @@ Enter the name of your service and hit enter.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image13.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image13.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -201,7 +201,7 @@ Select your service from the list.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image14.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image14.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -210,7 +210,7 @@ Scroll down the list of services to find your one.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image15.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image15.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -226,7 +226,7 @@ If your call was successful you will see something like this:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image16.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image16.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -235,7 +235,7 @@ Now we can modify the URL so the suffix is
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image17.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image17.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -247,7 +247,7 @@ will see this error message:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image18.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image18.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -264,7 +264,7 @@ Right click on "Get EntitySet (Query)" and select "Go to ABAP Workbench"
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image19.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image19.png" title="VirtualBox" width="500" %}
 
  
 
@@ -272,7 +272,7 @@ Click the tick on the warning message
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image20.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image20.png" title="VirtualBox" width="500" %}
 
  
 
@@ -283,14 +283,14 @@ Click on "display object list"
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image21.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image21.jpeg" title="VirtualBox" width="500" %}   
 
 Find the CARRIERS\_GET)ENTITYSET method of the left hand side, right
 click on it, and chose "Redefine".
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image22.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image22.png" title="VirtualBox" width="500" %}
 
  
 
@@ -302,7 +302,7 @@ Then hit activate.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image23.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image23.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -312,7 +312,7 @@ Return to your browser and refresh the page.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image24.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image24.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -326,7 +326,7 @@ create a link between carriers and flights.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image25.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image25.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -342,7 +342,7 @@ SCARR we will use the structure SFLIGHT.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image26.png" title="VirtualBox" width="500" %}
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image26.png" title="VirtualBox" width="500" %}
 
  
 
@@ -358,7 +358,7 @@ Enter ABAP to select everything from the flights table.
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image27.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image27.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -372,7 +372,7 @@ the flights
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image28.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image28.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -386,7 +386,7 @@ First we create a new Association:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image29.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image29.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -394,7 +394,7 @@ Then we create the navigation:
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image30.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image30.jpeg" title="VirtualBox" width="500" %}   
 
  
 
@@ -431,7 +431,7 @@ et\_entityset.
 
   endif.
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image31.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image31.jpeg" title="VirtualBox" width="500" %}   
 
 IT\_KEY\_TAB is importing parameter of the method which will hold all
 keys which have been passed in. In our example it will contain a carrier
@@ -446,7 +446,7 @@ will only show flights where the carrier ID is "AA".
 
  
 
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/image32.jpeg" title="VirtualBox" width="500" %}   
+{% include lightbox.html src="/img/2017-11-19-building-your-first-simple-gateway-service/image32.jpeg" title="VirtualBox" width="500" %}   
 
  
 
