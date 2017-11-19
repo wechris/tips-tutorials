@@ -111,6 +111,7 @@ vagrant up
 vagrant halt
 ````
 or with the virtualbox UI.
-{% include lightbox.html src="/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/Oracle_VM_VirtualBox_Manager.jpg" title="VirtualBox" width="500" %}
 
 
+
+![picture alt](/img/2017-11-18-Vagrant-Box-to-install-SAP-NetWeaver-AS-ABAP-750SP02-Developer-Edition/Oracle_VM_VirtualBox_Manager.jpg "Title is optional")
