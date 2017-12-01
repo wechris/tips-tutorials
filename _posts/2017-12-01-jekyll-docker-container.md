@@ -24,7 +24,7 @@ A Jekyll Docker image to build and view github-pages on my MacOS X.
 
 Build and run your Jekyll github-pages in a Docker container.
 
-Checkout the project and build the Docker image:
+Checkout the project  [/wechris/docker-jekyll-github-pages](https://github.com/wechris/docker-jekyll-github-pages) and build the Docker image:
 ```bash
 docker build -t "wechris-jekyll" .
 ```
