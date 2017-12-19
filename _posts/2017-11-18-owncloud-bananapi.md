@@ -99,7 +99,7 @@ sudo chown -R www-data:www-data /var/www/html
 Create the Data Directory                                    You must create a "data" folder for Owncloud and set permissions.     
 Proceed as follows.                                         
  
- ```bash
+```bash
 sudo mkdir /var/www/html/owncloud/data                      
 sudo chown www-data:www-data /var/www/html/owncloud/data 
 sudo chmod 750 /var/www/html/owncloud/data              
@@ -107,8 +107,9 @@ sudo chmod 750 /var/www/html/owncloud/data
 
 Finally, restart the web server
 
-  \$ sudo service apache2 restart
-  ---------------------------------
+```bash
+sudo service apache2 restart
+```
 
 Test the own cloud web page
 ---------------------------
