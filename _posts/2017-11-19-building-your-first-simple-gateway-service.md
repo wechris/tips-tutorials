@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Building a simple Gateway service 
-description: Building a simple Gateway service.
+title: SAP NW Gateway - Building a simple oData service  
+description: Building a simple oData service with SAP Netweaver Gateway.
 date: 2017-11-19 14:44:00+0100
-date_modified: 2017-11-19 14:44:00+0100
-categories: [sap]
+date_modified: 2017-12-20 19:44:00+0100
+categories: [sap, sap netweaver gateway, odata]
 tags:
   - sap
   - sap netweaver gateway
