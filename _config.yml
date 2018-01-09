@@ -15,7 +15,7 @@ baseurl: "/tips-tutorials" # the subpath of your site, e.g. /blog
 url: "https://wechris.github.io" # the base hostname & protocol for your site
 
 logo:
-  path: "/img/favicons/android-chrome-192x192.png"
+  path: "/img/favicons/favicon.ico"
   width: 192
   height: 192
 
