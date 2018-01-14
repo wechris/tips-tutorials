@@ -103,10 +103,10 @@ cd /vagrant
 
 Installation options:
 
-./install.sh – installs the Developer Edition in dark mode, the installer will configure the SAP system for usage of the physical hostname
-./install.sh -g– will present you a SAPINST GUI allowing you to modify certain system parameters
-./install.sh -h – allows you to specify your own hostname to be used by the SAP system
-./install.sh -s – allows you to skip the hostname check )
+* ./install.sh – installs the Developer Edition in dark mode, the installer will configure the SAP system for usage of the physical hostname
+* ./install.sh -g– will present you a SAPINST GUI allowing you to modify certain system parameters
+* ./install.sh -h – allows you to specify your own hostname to be used by the SAP system
+* ./install.sh -s – allows you to skip the hostname check )
 
 Read and accept the license agreement.
 When prompted for the OS users password enter your master password of the virtual Linux OS instance.
