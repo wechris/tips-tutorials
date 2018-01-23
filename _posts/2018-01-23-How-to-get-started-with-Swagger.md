@@ -107,3 +107,5 @@ Result:
 {% include lightbox.html src="/img/2018-01-23-How-to-get-started-with-Swagger/image007.jpg" title="swagger" width="500" %}
 
 {% include lightbox.html src="/img/2018-01-23-How-to-get-started-with-Swagger/image008.jpg" title="swagger" width="500" %}
+
+reference: [https://github.com/swagger-api](https://github.com/swagger-api/swagger-node/blob/master/docs/quick-start.md)
