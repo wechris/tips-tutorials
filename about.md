@@ -13,7 +13,9 @@ I am a Software Engineer focusing on SAP technologies and JAVA development.
 
 **JAVA**: SAP JAVA Connector (JCo), Tomcat, Spring Framework, Apache Projects
 
-**JavaScript**: NodeJS, AngulasJS, SAPUI5
+**JavaScript**: NodeJS, Angular, SAPUI5
+
+**Scripting Languages**: Perl, NSI (Installer)
 
 **DevOps**: Vagrant, Docker, Packer, VirtualBox, VMWare
 
