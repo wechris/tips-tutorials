@@ -29,6 +29,10 @@ Mkcert provides us with the best solution to this by managing its own CA. This w
 
 > **Warning**: the `rootCA-key.pem` file that mkcert automatically generates gives complete power to intercept secure requests from your machine. Do not share it.
 
+### Github Repo
+
+[FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
+
 ### Linux
 
 On Linux, first install `certutil`.
