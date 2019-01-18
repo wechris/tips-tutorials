@@ -20,7 +20,7 @@ image:
 
 # Compodoc
 
-## What is Copodoc
+## What is Compodoc
 
 Documentation generator for Angular Appliations. It generates a static documentation of your application.
 
