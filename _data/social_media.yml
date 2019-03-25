@@ -4,3 +4,6 @@
 - name: Xing
   url: https://www.xing.com/
   font_awesome: fa-xing
+- name: Twitter
+  url: https://twitter.com/_wechris_
+  font_awesome: fa-twitter
